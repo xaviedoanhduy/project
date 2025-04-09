@@ -52,7 +52,7 @@ addon | version | maintainers | summary
 [project_task_description_template](project_task_description_template/) | 16.0.1.0.0 |  | Add a description template to project tasks
 [project_task_link](project_task_link/) | 16.0.1.0.1 |  | Project Task Link
 [project_task_material](project_task_material/) | 16.0.1.0.0 |  | Record products spent in a Task
-[project_task_name_with_id](project_task_name_with_id/) | 16.0.1.0.0 |  | Project Task Name with ID
+[project_task_name_with_id](project_task_name_with_id/) | 16.0.1.0.1 |  | Project Task Name with ID
 [project_task_note](project_task_note/) | 16.0.1.0.0 | [![carolina-fernandez](https://github.com/carolina-fernandez.png?size=30px)](https://github.com/carolina-fernandez) | Add notes in project tasks
 [project_task_personal_stage_auto_fold](project_task_personal_stage_auto_fold/) | 16.0.1.0.0 |  | Moves task to the first fold personal stage when done
 [project_task_project_required](project_task_project_required/) | 16.0.1.0.0 |  | Set project on task as a mandatory field
