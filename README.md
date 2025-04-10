@@ -54,6 +54,7 @@ addon | version | maintainers | summary
 [project_task_material](project_task_material/) | 16.0.1.0.0 |  | Record products spent in a Task
 [project_task_name_with_id](project_task_name_with_id/) | 16.0.1.0.1 |  | Project Task Name with ID
 [project_task_note](project_task_note/) | 16.0.1.0.0 | [![carolina-fernandez](https://github.com/carolina-fernandez.png?size=30px)](https://github.com/carolina-fernandez) | Add notes in project tasks
+[project_task_parent_completion_blocking](project_task_parent_completion_blocking/) | 16.0.1.0.0 | [![david-banon-tecnativa](https://github.com/david-banon-tecnativa.png?size=30px)](https://github.com/david-banon-tecnativa) | Prevents a parent task from being completed if any children task isn't.
 [project_task_parent_due_auto](project_task_parent_due_auto/) | 16.0.1.0.0 | [![david-banon-tecnativa](https://github.com/david-banon-tecnativa.png?size=30px)](https://github.com/david-banon-tecnativa) | Recalculates parent task's due date when child task changes
 [project_task_personal_stage_auto_fold](project_task_personal_stage_auto_fold/) | 16.0.1.0.0 |  | Moves task to the first fold personal stage when done
 [project_task_project_required](project_task_project_required/) | 16.0.1.0.0 |  | Set project on task as a mandatory field
