@@ -15,6 +15,7 @@ setuptools.setup(
         'odoo-addon-project_key>=16.0dev,<16.1dev',
         'odoo-addon-project_list>=16.0dev,<16.1dev',
         'odoo-addon-project_merge>=16.0dev,<16.1dev',
+        'odoo-addon-project_milestone_status>=16.0dev,<16.1dev',
         'odoo-addon-project_milestone_tree>=16.0dev,<16.1dev',
         'odoo-addon-project_parent>=16.0dev,<16.1dev',
         'odoo-addon-project_parent_task_filter>=16.0dev,<16.1dev',
