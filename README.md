@@ -62,6 +62,7 @@ addon | version | maintainers | summary
 [project_task_project_required](project_task_project_required/) | 16.0.1.0.0 |  | Set project on task as a mandatory field
 [project_task_pull_request](project_task_pull_request/) | 16.0.1.0.0 |  | Adds a field for a PR URI to project tasks
 [project_task_pull_request_state](project_task_pull_request_state/) | 16.0.1.0.0 |  | Track Pull Request state in tasks
+[project_task_recurring_activity](project_task_recurring_activity/) | 16.0.1.0.0 | [![dessanhemrayev](https://github.com/dessanhemrayev.png?size=30px)](https://github.com/dessanhemrayev) [![CetmixGitDrone](https://github.com/CetmixGitDrone.png?size=30px)](https://github.com/CetmixGitDrone) | Project Task Recurring Activity
 [project_task_stage_mgmt](project_task_stage_mgmt/) | 16.0.1.0.0 | [![DavidJForgeFlow](https://github.com/DavidJForgeFlow.png?size=30px)](https://github.com/DavidJForgeFlow) | Allows to assign and create task stages on project creation wizard
 [project_task_stage_state](project_task_stage_state/) | 16.0.1.0.0 |  | Restore State attribute removed from Project Stages in 8.0
 [project_template](project_template/) | 16.0.1.0.0 | [![patrickrwilson](https://github.com/patrickrwilson.png?size=30px)](https://github.com/patrickrwilson) | Project Templates
