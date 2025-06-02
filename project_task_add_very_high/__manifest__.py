@@ -12,7 +12,7 @@
     "category": "Project",
     "website": "https://github.com/OCA/project",
     "depends": ["project"],
-    "data": ["views/project_task_view.xml"],
+    "data": ["views/project_task_view.xml", "views/templates.xml"],
     "installable": True,
     "uninstall_hook": "uninstall_hook",
 }
