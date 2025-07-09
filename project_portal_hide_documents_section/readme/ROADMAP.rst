@@ -1,0 +1,1 @@
+* This module only hides Projects and Tasks section of Documents on the customer portal home page. The portal user can still access them by manually entering the appropriate URL in the web browser. Use the Access Rights and Record Rules feature to further block access to these objects.
